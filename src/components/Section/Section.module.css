@@ -1,0 +1,10 @@
+.section {
+  width: 428px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,11 @@
+.button_feedback {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  transition: background-color 1s;
+}
+
+.button_feedback:hover,
+.button_feedback:focus {
+  background-color: goldenrod;
+}
